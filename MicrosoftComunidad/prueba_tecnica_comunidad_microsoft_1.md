@@ -14,6 +14,8 @@
 - Persistencia: puede ser en memoria o archivo local (BD opcional).
 
 
+# Enlace a chat gpt para la creación de API por medio de HTTP
+https://chatgpt.com/share/6912b828-cc84-800e-833d-abaa69c804e1
 
 # HTTP
 # 1. crear archivo requirements.txt
@@ -1650,4 +1652,5 @@ Esta prueba nos ayudará a:
 ---
 
 *Versión 1.0 - Comunidad Microsoft*
+
 *Para consultas: [mmoya0992@gmail.com]*
